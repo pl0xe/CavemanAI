@@ -3,3 +3,4 @@
 *.token
 .*.sw?
 __pycache__
+Modelfile
